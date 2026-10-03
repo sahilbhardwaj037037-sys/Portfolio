@@ -1,0 +1,23 @@
+# Only the static portfolio and its referenced images belong in this repository.
+/*
+!/.gitignore
+!/index.html
+!/style.css
+!/script.js
+!/assets/
+/assets/*
+!/assets/images/
+/assets/images/*
+!/assets/images/hero/
+!/assets/images/projects/
+/assets/images/hero/*
+!/assets/images/hero/developer-art.png
+/assets/images/projects/*
+!/assets/images/projects/1.png
+!/assets/images/projects/2.png
+!/assets/images/projects/3.png
+!/assets/images/projects/4.png
+!/assets/images/projects/5.png
+!/assets/images/projects/6.png
+!/assets/images/projects/7.png
+!/assets/images/projects/8.png
